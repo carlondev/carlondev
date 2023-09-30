@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Carlos Henrique, desenvolvedor back-end 👨‍💻
-<div>
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=carlondev&theme=midnight-purple&show_icons=true"/>
 </a>
