@@ -21,10 +21,12 @@
 </div>
 
 ## AWS Cloud Certified 🏅
+<div align="center">
    <a href="https://www.credly.com/badges/0f257f43-e674-49ec-ba43-4a8b775eea96/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a> 
+</div>
 
 ## Redes Sociais 🌐
-<div>
+<div align="center">
   <a href="https://instagram.com/chsp77" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:xp.henrique@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-henrique-s-paula" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
