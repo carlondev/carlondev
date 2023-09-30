@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Carlos Henrique, desenvolvedor back-end 👨‍💻
-<div style="display: inline_block">
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlondev&theme=midnight-purple&show_icons=true"/>
+  <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api?username=carlondev&theme=midnight-purple&show_icons=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlondev&theme=midnight-purple&layout=compact&langs_count=8&card_width=320"/>
+  <img widht="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlondev&theme=midnight-purple&layout=compact&langs_count=8&card_width=320"/>
 </a>
 </div>
 
