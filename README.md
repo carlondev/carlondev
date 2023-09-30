@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Carlos Henrique, desenvolvedor back-end 👨‍💻
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=carlondev&theme=midnight-purple&show_icons=true"/>
+  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=carlondev&theme=midnight-purple&show_icons=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img widht="60%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlondev&theme=midnight-purple&layout=compact&langs_count=8&card_width=320"/>
